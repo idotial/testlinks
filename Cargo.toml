@@ -1,0 +1,9 @@
+[package]
+name = "testlinks"
+version = "0.1.0"
+authors = ["homeMac <724104612@qq.com>"]
+edition = "2018"
+
+[dependencies]
+parity-rocksdb = "0.5"
+librocksdb-sys = "5.17"
